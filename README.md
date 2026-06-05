@@ -103,7 +103,7 @@ A full-stack pet adoption web app with real-time Firebase database, user authent
 ---
 
 ## 📊 By The Numbers
-
+```
 ┌─────────────────────────────────────────────────────┐
 │  400+   Test cases designed & executed @ Winman      │
 │  150+   Defects reported with severity classification │
@@ -128,11 +128,12 @@ A full-stack pet adoption web app with real-time Firebase database, user authent
 ---
 
 ## 🎯 Currently
-
-- 🔨 Building **Student Management System** (Flask + MySQL)
-- 📚 Learning **.NET / C#** to expand my stack
-- 🧠 Grinding **LeetCode** in Python daily
-- 👀 Open to roles in **QA/SDET**, **Software Dev**, and **Web Dev**
+| 🎯 | Currently Working On|
+|-----|-------------|
+| 🔨 | Building **Student Management System** (Flask + MySQL) |
+| 📚 | Learning **.NET / C#** to expand my stack |
+| 🧠 | Grinding **LeetCode** in Python daily |
+| 👀 | Open to roles in **QA/SDET**, **Software Dev**, and **Web Dev** |
 
 ---
 
