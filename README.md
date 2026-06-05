@@ -147,7 +147,7 @@ A full-stack pet adoption web app with real-time Firebase database, user authent
 
 ---
 
-<div align="center">
+
 
 ### Let's connect and build something great 🤝
 
