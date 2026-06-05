@@ -25,6 +25,7 @@
 ---
 
 ## `$ whoami`
+<div align="center">
 
 ```python
 class Abhishek:
@@ -103,7 +104,6 @@ A full-stack pet adoption web app with real-time Firebase database, user authent
 
 ## 📊 By The Numbers
 
-```
 ┌─────────────────────────────────────────────────────┐
 │  400+   Test cases designed & executed @ Winman      │
 │  150+   Defects reported with severity classification │
@@ -153,7 +153,7 @@ A full-stack pet adoption web app with real-time Firebase database, user authent
 
 *"Quality is never an accident; it is always the result of intelligent effort."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhi-kundar&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishekkundar&color=brightgreen&style=flat-square)
 
 </div>
 
