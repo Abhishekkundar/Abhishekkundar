@@ -220,7 +220,7 @@ System Design      ███░░░░░░░░ 30%
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Abhishekkundar/Abhishekkundar/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Abhishekkundar/Abhishekkundar/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
