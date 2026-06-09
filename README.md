@@ -1,175 +1,243 @@
-<div align="center">
+# <div align="center">
 
-```
-██████╗ ██╗   ██╗██╗██╗  ████████╗    ██╗████████╗
-██╔══██╗██║   ██║██║██║  ╚══██╔══╝    ██║╚══██╔══╝
-██████╔╝██║   ██║██║██║     ██║       ██║   ██║   
-██╔══██╗██║   ██║██║██║     ██║       ██║   ██║   
-██████╔╝╚██████╔╝██║███████╗██║       ██║   ██║   
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═╝       ╚═╝   ╚═╝   
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abhishek+Kundar;QA+Engineer+%7C+Full+Stack+Developer;MERN+Stack+Learner;Problem+Solver+%7C+Open+To+Work" />
 
-# Hey, I'm Abhishek Kundar 👋
+## QA Engineer • Full Stack Developer • Python Developer
 
-**QA Engineer · Full-Stack Developer · Problem Solver**
+<p>
+<a href="https://linkedin.com/in/abhi-kundar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-*Breaking things professionally so users don't have to.*
+<a href="mailto:abhishekkundar123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-kundar/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkundar123@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
+<a href="https://github.com/Abhishekkundar">
+<img src="https://img.shields.io/github/followers/Abhishekkundar?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Abhishekkundar&style=for-the-badge&color=brightgreen"/>
 
 </div>
 
 ---
 
-## `$ whoami`
-<div align="center">
+# 👨‍💻 About Me
 
 ```python
 class Abhishek:
-    def __init__(self):
-        self.name        = "Abhishek Kundar"
-        self.role        = ["QA Engineer", "Full-Stack Developer"]
-        self.location    = "Mangalore, Karnataka 🇮🇳"
-        self.experience  = "~1 year (QA + Web Dev)"
-        self.education   = "BCA — Dr. B.B. Hegde College (CGPA: 8.73)"
-        self.currently   = "Building Student Management System 🚧"
-        self.open_to     = ["QA/SDET", "Software Engineer", "Web Developer"]
 
-    def fun_facts(self):
+    def __init__(self):
+        self.name = "Abhishek Kundar"
+
+        self.role = [
+            "QA Engineer",
+            "Full Stack Developer"
+        ]
+
+        self.location = "Karnataka, India"
+
+        self.currently_learning = [
+            "MERN Stack",
+            "QA Automation",
+            "Data Structures & Algorithms"
+        ]
+
+        self.open_to = [
+            "Software Engineer",
+            "Python Developer",
+            "QA Engineer",
+            "SDET"
+        ]
+
+    def goals_2026(self):
         return [
-            "🏅 NCC 'C' Certificate Holder",
-            "🤸 State-level Kabaddi player",
-            "🧩 Active on LeetCode & HackerRank (Python)",
-            "🐾 Built a pet adoption app — CuddleNCare",
+            "Become MERN Stack Developer",
+            "Master QA Automation",
+            "Solve 300+ LeetCode Problems",
+            "Build Production Projects"
         ]
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+# 📊 GitHub Analytics
 
 <div align="center">
 
-**Testing & QA**
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Abhishekkundar&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishekkundar&show_icons=true&theme=tokyonight)"/>
 
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2D3748?style=flat-square)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-2D3748?style=flat-square)
-![STLC](https://img.shields.io/badge/STLC-2D3748?style=flat-square)
-![Defect Tracking](https://img.shields.io/badge/Defect%20Tracking-2D3748?style=flat-square)
-![UAT](https://img.shields.io/badge/UAT-2D3748?style=flat-square)
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkundar&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishekkundar&layout=compact&theme=tokyonight)"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🔥 Contribution Streak
 
-### 🎓 Student Management System *(In Progress — 2026)*
-> **Stack:** Python · Flask · MySQL · HTML · CSS · JavaScript
+<div align="center">
 
-A production-grade full-stack system for student registration, grade tracking, and attendance management. Built with REST APIs, a responsive UI, and test cases written for every module following SDLC practices.
-
-`[Backend APIs]` `[Admin Dashboard]` `[Test Coverage]` `[Responsive UI]`
-
----
-
-### 🐾 CuddleNCare — Pet Adoption Platform *(2024)*
-> **Stack:** Python · Flask · Firebase · HTML · CSS · JavaScript
-
-A full-stack pet adoption web app with real-time Firebase database, user authentication, and CRUD operations. Validated via manual testing throughout development.
-
-`[Full-Stack]` `[Firebase Auth]` `[CRUD Operations]` `[Responsive Design]`
-
----
-
-## 📊 By The Numbers
-```
-┌─────────────────────────────────────────────────────┐
-│  400+   Test cases designed & executed @ Winman      │
-│  150+   Defects reported with severity classification │
-│   8.73  BCA CGPA                                      │
-│     1   NCC 'C' Certificate                           │
-│     1   State-level Kabaddi tournament appearance     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 💼 Work Timeline
-
-```
-2024 ───────────────────────────────────────────── 2026
-
-  🎓 BCA Graduate          🔧 Web Troubleshooting     🧪 QA Engineer
-  Dr. B.B. Hegde College   Engineer @ UnifyCX         @ Winman Software
-  CGPA: 8.73               Aug 2024 – Mar 2025        May 2025 – Mar 2026
-```
-
----
-
-## 🎯 Currently
-| 🎯 | Currently Working On|
-|-----|-------------|
-| 🔨 | Building **Student Management System** (Flask + MySQL) |
-| 📚 | Learning **.NET / C#** to expand my stack |
-| 🧠 | Grinding **LeetCode** in Python daily |
-| 👀 | Open to roles in **QA/SDET**, **Software Dev**, and **Web Dev** |
-
----
-
-## 🏆 Achievements
-
-| 🎖️ | Achievement |
-|-----|-------------|
-| 🪖 | **NCC 'C' Certificate** — Discipline, leadership & teamwork |
-| 🤸 | **State-Level Kabaddi** — Represented district at state tournament |
-| 🏫 | **University-Level Kabaddi** — Represented college |
-| 💻 | **Active on LeetCode & HackerRank** — Python problem solving |
-
----
-
-
-
-### Let's connect and build something great 🤝
-
-*"Quality is never an accident; it is always the result of intelligent effort."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhishekkundar&color=brightgreen&style=flat-square)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkundar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+---
 
-<!--
-**Abhishekkundar/Abhishekkundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📈 Contribution Activity Graph
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekkundar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishekkundar&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📌 Professional Dashboard
+
+| KPI                    | Value                      |
+| ---------------------- | -------------------------- |
+| 💼 Experience          | 1+ Year                    |
+| 🧪 Test Cases Executed | 400+                       |
+| 🐞 Defects Reported    | 150+                       |
+| 🎓 BCA CGPA            | 8.73                       |
+| 💻 Projects Completed  | 10+                        |
+| 🚀 Current Focus       | MERN Stack + QA Automation |
+| 🏅 NCC Certificate     | C Certificate              |
+| 🤸 Sports              | State-Level Kabaddi        |
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Student Management System
+
+**Tech Stack:** Flask • MySQL • JavaScript • REST APIs
+
+✔ Student Registration
+✔ Attendance Tracking
+✔ Grade Management
+✔ Admin Dashboard
+
+---
+
+## 🐾 CuddleNCare
+
+**Tech Stack:** Flask • Firebase • HTML • CSS • JavaScript
+
+✔ Pet Adoption Platform
+✔ Firebase Authentication
+✔ CRUD Operations
+✔ Responsive Design
+
+---
+
+## 🌐 Portfolio Website
+
+**Tech Stack:** HTML • CSS • JavaScript • GitHub Pages
+
+✔ Responsive Design
+✔ Modern UI
+✔ Fast Loading
+
+---
+
+# 📅 2026 Goals
+
+* ✅ MERN Stack Mastery
+* ✅ Build 5 Production-Level Projects
+* ✅ QA Automation Framework Development
+* ✅ Solve 300+ LeetCode Problems
+* ✅ 100+ GitHub Contributions Monthly
+* ✅ Land Software Development Role
+
+---
+
+# 📚 Currently Learning
+
+```text
+MERN Stack         █████████░░ 85%
+
+QA Automation      ███████░░░░ 70%
+
+DSA & LeetCode     ████████░░░ 80%
+
+System Design      ███░░░░░░░░ 30%
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Abhishekkundar/Abhishekkundar/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+> "Quality is never an accident; it is always the result of intelligent effort."
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following me ⭐
+
+</div>
