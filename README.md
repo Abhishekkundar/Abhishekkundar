@@ -168,18 +168,6 @@ class Abhishek:
 ✔ Grade Management
 ✔ Admin Dashboard
 
----
-
-## 🐾 CuddleNCare
-
-**Tech Stack:** Flask • Firebase • HTML • CSS • JavaScript
-
-✔ Pet Adoption Platform
-✔ Firebase Authentication
-✔ CRUD Operations
-✔ Responsive Design
-
----
 
 ## 🌐 Portfolio Website
 
