@@ -1,6 +1,8 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abhishek+Kundar;QA+Engineer+%7C+Full+Stack+Developer;MERN+Stack+Learner;Problem+Solver+%7C+Open+To+Work" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=900&height=70&lines=Hi+I'm+Abhishek+Kundar;QA+Engineer;Full+Stack+Developer;Python+Developer;MERN+Stack+Learner;Open+to+Work"/>
+</p>
 
 ## QA Engineer • Full Stack Developer • Python Developer
 
@@ -68,9 +70,11 @@ class Abhishek:
 
 <div align="center">
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Abhishekkundar&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishekkundar&show_icons=true&theme=tokyonight)"/>
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishekkundar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkundar&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishekkundar&layout=compact&theme=tokyonight)"/>
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishekkundar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -88,23 +92,13 @@ class Abhishek:
 
 # 📈 Contribution Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekkundar&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekkundar&theme=github-dark&hide_border=true&area=true&cache_seconds=1800"/>
+</p>
 
 ---
 
-# 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishekkundar&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # 📌 Professional Dashboard
 
@@ -127,7 +121,7 @@ class Abhishek:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
 
 </p>
 
@@ -151,7 +145,7 @@ class Abhishek:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
